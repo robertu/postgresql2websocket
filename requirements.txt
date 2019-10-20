@@ -1,0 +1,4 @@
+configparser
+asyncpg
+aiohttp
+asyncio
